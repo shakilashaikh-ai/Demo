@@ -1,0 +1,56 @@
+x = "Python"
+y = " 0.5"
+z = " awesome"
+#addition take space also in considration
+print(x + y + z)
+print(type(x))
+print(type(y))
+print(type(z))
+
+a = 5
+b = 1005
+print(a+b)
+print(type(a))
+print(type(b))
+
+s = 89
+h = 9.9
+
+print(s+h)
+print(type(s))
+print(type(h))
+
+#comma insert space automatically 
+t = "python"
+e = "is" 
+g = "awesome"
+print(t,e,g)
+
+#Casting
+
+u = int(1)
+i = int(5.5)
+o = int("9")
+print(u,i,o)
+print(type(u))
+print(type(i))
+print(type(o))
+
+
+j = float(1)
+k = float(2.5)
+l = float("9.8")
+print(j,k,l)
+print(type(j))
+print(type(k))
+print(type(l))
+
+5/11/2023
+
+x = ["apple", "banana", "cherry", "apple", "cherry", 0, "pineapple"]
+y = ["mango", "pineapple", "watermelon"]
+print(x)
+print(len(x))
+print(y)
+print(len(y))
+print(type(y))
