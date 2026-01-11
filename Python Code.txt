@@ -7,7 +7,7 @@ print(type(x))
 print(type(y))
 print(type(z))
 
-a = 5
+a = 9
 b = 1005
 print(a+b)
 print(type(a))
@@ -54,3 +54,4 @@ print(len(x))
 print(y)
 print(len(y))
 print(type(y))
+
