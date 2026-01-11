@@ -1,6 +1,6 @@
 class Student {
 
-    // private data members
+    // private information members
     private int id;
     private String name;
 
@@ -37,3 +37,4 @@ public class EncapsulationDemo {
         System.out.println("Name: " + s.getName());
     }
 }
+
